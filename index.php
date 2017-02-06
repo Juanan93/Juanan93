@@ -8,6 +8,7 @@
 <h1>Despliegue de aplicaciones LAMP</h1>
 <?php
 phpinfo();
+echo "hola";
 ?>
 </body>
 </html>
